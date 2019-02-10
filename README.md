@@ -5,4 +5,4 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Sample website with plenty of files for demo
-This is rebase leccture
+This is rebase new leccture
